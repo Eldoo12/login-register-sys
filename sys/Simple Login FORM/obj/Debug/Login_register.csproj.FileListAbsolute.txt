@@ -1,0 +1,24 @@
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\Simple Login FORM.exe.config
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\Simple Login FORM.exe
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\Simple Login FORM.pdb
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\MySql.Data.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\Google.Protobuf.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\ZstdNet.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\System.Memory.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\System.Buffers.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\bin\Debug\MySql.Data.xml
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Login_register.csproj.AssemblyReference.cache
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple Login FORM.exe.config
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple_Login_FORM.LoginForm.resources
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple_Login_FORM.Properties.Resources.resources
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple_Login_FORM.RegisterForm.resources
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Login_register.csproj.GenerateResource.cache
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Login_register.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple Login FORM.exe
+C:\Users\DT User\Desktop\Prog\Simple Login FORM\obj\Debug\Simple Login FORM.pdb
